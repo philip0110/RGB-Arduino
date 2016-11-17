@@ -1,6 +1,6 @@
 
 
-
+int test;
 int LEDblau = 6;
 int LEDrot = 7;
 int LEDgreen = 5;
